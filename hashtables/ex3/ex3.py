@@ -3,6 +3,8 @@ def intersection(arrays):
     YOUR CODE HERE
     """
     # Your code here
+    result = []
+    print(len(arrays[0]))
 
     return result
 
